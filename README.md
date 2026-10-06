@@ -27,3 +27,4 @@ zzzNIKOzzz — автор, тестирование, сборка под SPT 5.0
 
 zzzzzzzzЛицензия:
 MIT — делай что хочешь, просто не забудь упомянуть автора.
+<img width="2560" height="1440" alt="2026-10-06_22-52-30" src="https://github.com/user-attachments/assets/4a961de4-00be-44eb-b80d-9eab82aa9aba" />
