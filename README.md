@@ -1,4 +1,4 @@
-# InventoryPatch_SPT_5.0
+# InventoryPatch SPT 5.0
 InventoryPatch - BepInEx‑плагин для SPT 5.0, реализующий использование медицины из рюкзака и контейнеров.
 
 zzzzzzzzВозможности:
